@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "interactive-finance-dashboard",
+  "private_key_id": "8573cb5806a586cea1e4941d52ddda5c289094ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+H1lsOHe/4oAA\n0PBqcDSWZl1rZj2XLlVDrbKR4L6I4JWnja2sCW0/gtnIPaWcRn5/CP+/OoquoQXG\nAwK3891bagkl0K5RftJj2HpXfxApE8riA4VhfnKlSEZNG/3J+VdZWLTw6rvDpMQv\nIm/szDlq6YkwIPBxTNm2cI1c+y/m/NYNCVS0pJnOTyJ7+RhtwegwlJ1P6GwrlSyX\n3TfQVTu6cicuKi9xuxopbno5vcHhwgCEdOgg4GwFwAeyLOGAy5il2DPkVyF7AbTp\nS2ddhCtPzU4XxjQptQHk8upGI7i+r6DcvcOOrnDyudeYwZ5A1Tn8EhRVDADrCS8t\nOuMZxZ+pAgMBAAECggEAE9cDpuZxoKWLRAqJvCG/ax59izKdJMSiAzECHHT+jRwa\noeSIBhbpvqHyBhJg0OEOXEVdIuCCDl0hVBuGUhnxtJNpJvgS6NA6Nk8l3TGWRyMY\nneNOLPFcF2FmbK+KGWSat+ko4KcuNulfy6dlVKmvKDf8p/gX/0rMwVwXdGeGBS2Z\nNqGov28SrFh4zMKnCtIWurZPtK2hVbvYF4ZIIA3GK4ihGQudwWpztphh3FEzEYGc\nDaholPrilLXBXpJhIwHJp706eF9ud9WygCl+PAyvUWxsRgNuXz8c1IC/c5ntHogc\nHKX3/+pU+dF+Vc2rooRqjRWr6EzfcQB/imFzwZiG3QKBgQDmNJB0TKFz6NLWIBGX\nSK1cusdy4VNnPJjFLLWrODlzkOgNy7rnXkuXq6y/i7bbO56u+ljEZ89TkjbZqbFD\nfZAhlzmOyCSzq1wChN78CQWEtFAruplftv7x97X5q2a66BmXYFESZ0Pt9ub3eHrB\nkkupXT5/hEB4aacTISffLA/7CwKBgQDTbQIzpwSHbfVi9Z9EcwJxwGcScC3a67j+\nq0Mczvz3dxtZvjEwTh8szohA4td/RZMSFORRo00UH9MRf1cOhRaILnELY+vMzfTk\nJSm8wzkDSS9JRv0gaRKqwur29HMStVZqVSeuDSneuY0FXDSw4P6J3SSfaPdDj0Xd\ngJBonq3gmwKBgH0kuB6xBdgICo2i001FkhDl7MTz3y4xD++odX4Fy52aebv+M7XR\nWhCyn+9lGVum1oXSzGzA7kFFLBI5oIbK/I52MjD/doxBrHwmFT43/Ur95tNO1k/l\nIEUT31ZBqlATGs5i6s+xWYlEfpyrXzhZuk3wxaf2kkGjVdMdZBp7TpivAoGBAKz+\nbObGqjYGCtrGD2N6l21r+OplT5/pcJ0wlOFlnCcAFikALk9QHMIU2/f7pEhHLWeG\nIKuL6u2kfJe8kgcXbrBPD8A6Kh6SBucGYXhKZMQDheV3aHa0gsmmY4tdySptph+r\nPaR0sOXE/VZ9c7+m2Z8Ei4rD4E4vVQNAxuhTrgIxAoGAf+vIRk/qnTbzqzQ5Qn9z\n3Z7nrwnh8UsaPtpMeFhyzXDsXpGloG7kR7jvLZICf5jEFpEbkeGGkRQm44O8vP/d\nlYFyU/onAHGOuoWieJp6BH9X1r5MLYTER2a96NwyDG6zmUM8E5Fd8YU+0nemP3x9\nF0y7sqC6AhI7NZRgq+5nRIM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "interactive-financial-dash-334@interactive-finance-dashboard.iam.gserviceaccount.com",
+  "client_id": "108349487962283102271",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/interactive-financial-dash-334%40interactive-finance-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
