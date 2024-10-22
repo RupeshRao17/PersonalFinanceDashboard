@@ -6,6 +6,7 @@ from dash import dcc, html, dash_table
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 import plotly.express as px
+import os
 
 # Initialize the Dash app with Bootstrap theme
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
