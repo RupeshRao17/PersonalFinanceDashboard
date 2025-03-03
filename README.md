@@ -22,6 +22,10 @@
 5. **Dynamic Filtering:** Allows users to filter and view expenses by category, date range, or specific keywords, enabling detailed analysis and insights.
 6. **Real-Time Updates:** The data table is synchronized with the visualizations, ensuring that any updates or filters applied to the data are immediately reflected in the table.
 
+## Screenshots:
+![Alt text](MainScreen.png)
+![Alt text](ParticularExpense.png)
+
 ## How Does This Work? (Project WorkFlow)
 
 ### Data Loading and Preparation:(Google Sheets Integration)
